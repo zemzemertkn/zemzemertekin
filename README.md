@@ -135,7 +135,7 @@ I'm currently improving my skills in:
 
 I'm open to **internship, long-term internship, AI/ML, and software engineering opportunities**, as well as collaborative projects.
 
-**LinkedIn:** Add your LinkedIn URL here
+**LinkedIn:** https://www.linkedin.com/in/zemzemertekin/
 
 **GitHub:** [github.com/zemzemertkn](https://github.com/zemzemertkn)
 
