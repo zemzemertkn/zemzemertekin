@@ -1,144 +1,134 @@
 # Hi, I'm Zemzem Ertekin 👋
 
-### Software Engineering Student | AI & Machine Learning | Software Development
+### Software Engineering Student | AI/ML & Software Development
 
-I'm a Software Engineering student interested in **Artificial Intelligence, Machine Learning, and software development**.
+Software Engineering student focused on **Artificial Intelligence, Machine Learning, and production-oriented software systems**.
 
-I enjoy building end-to-end projects, experimenting with machine learning and deep learning models, and turning technical concepts into practical applications. My work includes AI/ML projects, web development, compiler design, algorithm analysis, and object-oriented software development.
+I enjoy developing ML/DL solutions, experimenting with modern AI architectures, and building software projects from concept to implementation.
 
-Currently, I'm especially focused on **Machine Learning, LLM-based AI systems, and production-oriented AI applications**.
+📍 Istanbul, Türkiye  
+💼 Open to **Long-Term Internship · AI/ML · Software Engineering** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+
+### Web & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ☀️ Solar Power Forecasting & AI Assistant
-Machine learning-based solar active power forecasting system combined with an AI assistant layer.
 
-- Developed and evaluated multiple regression models including **LightGBM, CatBoost, XGBoost, Extra Trees, and HistGradientBoosting**
-- Performed hyperparameter optimization using **Optuna**
-- Built a **LightGBM + CatBoost weighted ensemble**
-- Achieved **R²: 0.9881**, **RMSE: 3.1497**, and **MAE: 2.0511** on the final test set
-- Explored an LLM-based assistant architecture for explaining forecasts, analyzing influencing factors, and interacting with the forecasting pipeline
+ML-based **solar active power forecasting system** developed during my internship work at **SolarTools**.
 
-**Technologies:** Python · LightGBM · CatBoost · Optuna · Machine Learning · LLMs
+**Highlights**
+- Compared LightGBM, CatBoost, XGBoost, Extra Trees, and HistGradientBoosting
+- Hyperparameter optimization with **Optuna**
+- Selected a **LightGBM + CatBoost weighted ensemble**
+- Final test performance: **R² 0.9881 · RMSE 3.1497 · MAE 2.0511**
+- Explored an **LLM-based assistant layer** for interacting with and explaining the forecasting pipeline
 
-> Developed as part of my internship work at SolarTools. Company and team repositories are not reproduced here.
+`Python` `LightGBM` `CatBoost` `Optuna` `Machine Learning` `LLMs`
 
----
-
-### 🩻 Chest X-Ray Anomaly Detection
-
-Deep learning project for detecting anomalies in chest X-ray images using transfer learning and fine-tuning.
-
-- EfficientNetB0-based architecture
-- Transfer learning
-- Model fine-tuning
-- Medical image preprocessing and classification
-- Saved trained model for inference
-
-**Technologies:** Python · TensorFlow/Keras · EfficientNetB0 · Deep Learning
-
-Repository: [chest-xray-anomaly-detection](https://github.com/zemzemertkn/chest-xray-anomaly-detection)
+> 🔒 The implementation is kept private. Company/team source code is not reproduced on this profile.
 
 ---
 
-### ⚙️ Two-Pass Compiler in Python
+### 🩻 [Chest X-Ray Anomaly Detection](https://github.com/zemzemertkn/chest-xray-anomaly-detection)
 
-A compiler developed from scratch for a simplified programming language.
+Deep learning system for **Normal vs. Abnormal chest X-ray classification** using EfficientNetB0.
 
-Includes:
+**Highlights**
+- Transfer learning and fine-tuning
+- Medical image preprocessing with CLAHE
+- Final test accuracy of approximately **86%**
+- **88% sensitivity/recall** for abnormal cases
+- **AUC: 0.935**
 
-- Lexical analysis
-- Recursive descent parsing
-- Abstract Syntax Tree (AST) generation
-- Semantic analysis
-- Symbol table management
-- Error detection
-- Tkinter-based graphical interface
-
-**Technologies:** Python · Tkinter · Compiler Design · OOP
-
-Repository: [two-pass-compiler-python](https://github.com/zemzemertkn/two-pass-compiler-python)
+`Python` `TensorFlow` `Keras` `EfficientNetB0` `Deep Learning`
 
 ---
 
-## 🤝 Team Projects & Experience
+### ⚙️ [Two-Pass Compiler](https://github.com/zemzemertkn/two-pass-compiler-python)
+
+Two-pass compiler built from scratch in Python for a simplified programming language.
+
+**Includes**
+
+`Lexical Analysis` · `Recursive Descent Parsing` · `AST Generation` · `Semantic Analysis` · `Symbol Table` · `Error Detection` · `Tkinter IDE`
+
+---
+
+## 🤝 Professional & Team Contributions
+
+### SolarTools
+
+Contributed to software and AI-related work during my internship, including the development and evaluation of the solar power forecasting pipeline and exploration of an LLM-based analysis layer.
+
+My GitHub activity also includes contributions to the organization's repositories.
+
+> Some company work is private and is intentionally not reproduced in my personal repositories.
 
 ### 🏥 HCC Early Diagnosis Platform
 
-Contributed to the frontend development of an **AI-assisted HCC early diagnosis platform** as part of a collaborative software project.
+Contributed to a collaborative **AI-assisted HCC early diagnosis platform**, primarily focusing on frontend development and user interface implementation.
 
-My work focused primarily on:
+**My focus:** React · JavaScript · UI Development · Git/GitHub Collaboration
 
-- React-based frontend development
-- User interface implementation
-- Improving usability and interface structure
-- Working within a collaborative Git/GitHub workflow
+→ [HCC Web Design](https://github.com/zemzemertkn/HCC_web_design)
 
-I also explored an alternative interface design to experiment with a more modern user experience.
+I also worked on an alternative frontend concept:
 
-**Technologies:** React · JavaScript · HTML · CSS · Git/GitHub
+→ [HCC UI Redesign](https://github.com/zemzemertkn/Hcc_new_web)
 
-Repositories:
+### 📱 HealthAssistant
 
-- [HCC Web Design](https://github.com/zemzemertkn/HCC_web_design)
-- [HCC New Web](https://github.com/zemzemertkn/Hcc_new_web)
+Participated in the collaborative **HealthAssistant** project, which is maintained in a team member's repository.
+
+→ [Team Repository](https://github.com/dilara-karaca/HealthAssistant)
 
 ---
 
-## 💻 Other Projects
+## 📚 Other Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Sorting Algorithm Analysis](https://github.com/zemzemertkn/sorting-algorithm-analysis) | Experimental comparison of MergeSort and QuickSort using execution time, input patterns, and theoretical energy consumption. | Python |
-| [Customer Tracking System](https://github.com/zemzemertkn/customer-tracking-system-java) | Desktop customer, product, and order management application based on object-oriented programming principles. | Java · Swing · OOP |
-| [Shopping Assistant](https://github.com/zemzemertkn/cpp-shopping-assistant) | Terminal-based shopping assistant with shopping-list management, expiration tracking, file persistence, and recipe recommendations. | C++ |
-| [Dictionary Application](https://github.com/zemzemertkn/c-dictionary-application) | Terminal-based personal dictionary application with word management and file-based persistence. | C |
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-
-`Python` · `Java` · `C` · `C++` · `JavaScript`
-
-**AI & Machine Learning**
-
-`Machine Learning` · `Deep Learning` · `TensorFlow/Keras` · `LightGBM` · `CatBoost` · `Optuna` · `LLMs`
-
-**Web Development**
-
-`React` · `JavaScript` · `HTML` · `CSS`
-
-**Tools**
-
-`Git` · `GitHub` · `VS Code` · `Jupyter Notebook`
+| Project | Focus |
+|---|---|
+| [Sorting Algorithm Analysis](https://github.com/zemzemertkn/sorting-algorithm-analysis) | MergeSort vs. QuickSort · Runtime Analysis · Theoretical Energy Consumption |
+| [Customer Tracking System](https://github.com/zemzemertkn/customer-tracking-system-java) | Java · Swing · Object-Oriented Programming |
+| [Shopping Assistant](https://github.com/zemzemertkn/cpp-shopping-assistant) | C++ · File Persistence · Terminal Application |
+| [Dictionary Application](https://github.com/zemzemertkn/c-dictionary-application) | C · File Handling · Terminal Application |
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Exploring
 
-I'm currently improving my skills in:
-
-- Production-oriented Machine Learning
-- LLM-powered applications
-- AI agents and tool integration
-- RAG systems
-- Model deployment and AI system architecture
-- Software engineering best practices
+`LLM Applications` · `AI Agents` · `RAG` · `Tool Calling` · `Model Deployment` · `Production ML`
 
 ---
 
 ## 📫 Connect With Me
 
-I'm open to **internship, long-term internship, AI/ML, and software engineering opportunities**, as well as collaborative projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zemzem%20Ertekin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemzemertekin/)
+[![GitHub](https://img.shields.io/badge/GitHub-zemzemertkn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zemzemertkn)
 
-**LinkedIn:** https://www.linkedin.com/in/zemzemertekin/
-
-**GitHub:** [github.com/zemzemertkn](https://github.com/zemzemertkn)
-
----
-
-*Always learning, building, and improving.*
+**Open to long-term internship and early-career opportunities in AI/ML and Software Engineering.**
